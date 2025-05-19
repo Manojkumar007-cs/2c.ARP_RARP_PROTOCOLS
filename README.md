@@ -44,10 +44,9 @@ while True:
     print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-## PROGRAM - RARP
 
 ![image](https://github.com/user-attachments/assets/6ef591a2-bfd1-40d6-b5a0-075ce5a477ea)
-
+## PROGRAM - RARP
 ## CLIENT
 ```
 import socket 
